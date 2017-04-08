@@ -10,5 +10,3 @@ Contents :
 <li><b><a href="https://github.com/Shivam06/British-Referendum-2016/blob/master/visualizations/Brexit%20Visualizations%20.ipynb">Brexit Visualizations</a></b> - Visualizations of different reactions of people.</li>
 </ul>
 
-<h3>TODO</h3>
-See <a href="https://github.com/Shivam06/British-Referendum-2016/projects/1#card-484427">To do list</a>
